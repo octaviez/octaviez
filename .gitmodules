@@ -1,0 +1,9 @@
+[submodule "AIStuff/AIStuff/audio-diffusion-pytorch-fork"]
+	path = AIStuff/AIStuff/audio-diffusion-pytorch-fork
+	url = https://github.com/octaviez/audio-diffusion-pytorch-fork.git
+[submodule "AIStuff/AIStuff/sample-generator-fork"]
+	path = AIStuff/AIStuff/sample-generator-fork
+	url = https://github.com/octaviez/sample-generator.git
+[submodule "AIStuff/AIStuff/oobleck-fork"]
+	path = AIStuff/AIStuff/oobleck-fork
+	url = https://github.com/octaviez/oobleck.git
