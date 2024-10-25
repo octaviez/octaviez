@@ -7,3 +7,6 @@
 [submodule "AIStuff/AIStuff/oobleck-fork"]
 	path = AIStuff/AIStuff/oobleck-fork
 	url = https://github.com/octaviez/oobleck.git
+[submodule "AIStuff/AIStuff/HarmonComposite"]
+	path = AIStuff/AIStuff/HarmonComposite
+	url = https://github.com/Harmonai-org/harmonai.git
