@@ -1,0 +1,179 @@
+2024-11-01T09:44:59.5035072 Error: Unable to retrieve transfer history. 500 : [An error occurred: Required request body is missing: public org.springframework.http.ResponseEntity<java.util.List<com.techelevator.tenmo.model.Transfer>> com.techelevator.tenmo.controller.TransferController.viewTransferHistory(java.security.Principal)]
+2024-11-01T09:44:59.5080203 Failed to retrieve transfer history.
+2024-11-01T09:45:11.0070854 Error: Unable to retrieve pending requests. 500 : [An error occurred: Required request body is missing: public org.springframework.http.ResponseEntity<java.util.List<com.techelevator.tenmo.model.Transfer>> com.techelevator.tenmo.controller.TransferController.viewPendingTransfers(java.security.Principal)]
+2024-11-01T09:45:11.0070854 Failed to retrieve pending requests.
+2024-11-01T09:45:17.6621292 Error: Unable to send TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T09:45:17.6621292 Failed to send TE Bucks.
+2024-11-01T09:45:27.3057311 Error: Unable to send TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T09:45:27.3057311 Failed to send TE Bucks.
+2024-11-01T09:46:02.4391008 Error: Unable to request TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T09:46:02.4391008 Failed to request TE Bucks.
+2024-11-01T09:48:11.6936016 Error: Unable to retrieve transfer history. 500 : [An error occurred: Required request body is missing: public org.springframework.http.ResponseEntity<java.util.List<com.techelevator.tenmo.model.Transfer>> com.techelevator.tenmo.controller.TransferController.viewTransferHistory(java.security.Principal)]
+2024-11-01T09:48:11.6936016 Failed to retrieve transfer history.
+2024-11-01T10:00:13.2160362 Failed to retrieve transfer history.
+2024-11-01T10:00:22.7428157 Failed to retrieve transfer history.
+2024-11-01T10:00:33.3797957 Failed to retrieve pending requests.
+2024-11-01T10:00:38.1458838 Error: Unable to send TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T10:00:38.1468816 Failed to send TE Bucks.
+2024-11-01T10:02:30.5726044 Error: Unable to retrieve transfer history. 500 : [An error occurred: Required request body is missing: public java.util.List<com.techelevator.tenmo.model.Transfer> com.techelevator.tenmo.controller.TransferController.viewTransferHistory(java.security.Principal)]
+2024-11-01T10:02:30.5726044 Failed to retrieve transfer history.
+2024-11-01T10:02:33.2928441 Error: Unable to retrieve transfer history. 500 : [An error occurred: Required request body is missing: public java.util.List<com.techelevator.tenmo.model.Transfer> com.techelevator.tenmo.controller.TransferController.viewTransferHistory(java.security.Principal)]
+2024-11-01T10:02:33.2928441 Failed to retrieve transfer history.
+2024-11-01T10:11:24.8178578 Error: Unable to retrieve transfer history. 500 : [An error occurred: Required request body is missing: public java.util.List<com.techelevator.tenmo.model.Transfer> com.techelevator.tenmo.controller.TransferController.viewTransferHistory(java.security.Principal)]
+2024-11-01T10:11:24.82438 Failed to retrieve transfer history.
+2024-11-01T11:23:48.9870932 Error: Unable to retrieve transfer history. 500 : [An error occurred: No static resource transfers.]
+2024-11-01T11:23:48.9900902 Failed to retrieve transfer history.
+2024-11-01T11:23:52.4951674 Failed to retrieve pending requests.
+2024-11-01T11:24:00.9195047 Error: Unable to send TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T11:24:00.9195047 Failed to send TE Bucks.
+2024-11-01T11:24:10.179222 Error: Unable to request TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T11:24:10.1807344 Failed to request TE Bucks.
+2024-11-01T11:26:41.1588309 Error: Unable to retrieve transfer history. 500 : [An error occurred: No static resource transfer.]
+2024-11-01T11:26:41.1653537 Failed to retrieve transfer history.
+2024-11-01T11:26:51.6934583 Failed to retrieve pending requests.
+2024-11-01T11:26:58.9911481 Error: Unable to send TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T11:26:58.9911481 Failed to send TE Bucks.
+2024-11-01T11:28:54.2014245 Error: Unable to retrieve transfer history. 500 : [An error occurred: No static resource transfer.]
+2024-11-01T11:28:54.2089582 Failed to retrieve transfer history.
+2024-11-01T11:29:00.5652293 Error: Unable to send TE Bucks. 500 : [An error occurred: No static resource transfer/send.]
+2024-11-01T11:29:00.5652293 Failed to send TE Bucks.
+2024-11-01T11:29:06.855192 Error: Unable to request TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T11:29:06.8562019 Failed to request TE Bucks.
+2024-11-01T11:31:02.4147711 Error: Unable to retrieve transfer history. Cannot read the array length because "elements" is null
+2024-11-01T11:31:02.4177709 Failed to retrieve transfer history.
+2024-11-01T11:31:06.3496452 Error: Unable to retrieve pending requests. 500 : [An error occurred: No static resource transfer/pending.]
+2024-11-01T11:31:06.3506428 Failed to retrieve pending requests.
+2024-11-01T11:44:00.2428244 Error: Unable to retrieve transfer history. Cannot read the array length because "elements" is null
+2024-11-01T11:44:00.2478238 Failed to retrieve transfer history.
+2024-11-01T11:44:04.298129 Error: Unable to retrieve pending requests. 500 : [An error occurred: No static resource transfer/pending.]
+2024-11-01T11:44:04.298129 Failed to retrieve pending requests.
+2024-11-01T12:01:46.889135 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T12:01:46.8976598 Failed to retrieve transfer history.
+2024-11-01T12:05:09.3151974 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T12:05:09.3597238 Failed to retrieve transfer history.
+2024-11-01T15:42:47.083208 Error: Unable to retrieve balance. 500 : [An error occurred: Invalid cursor position]
+2024-11-01T15:42:47.0917465 Failed to retrieve balance.
+2024-11-01T15:46:17.1348537 Error: Unable to retrieve balance. 500 : [An error occurred: Invalid cursor position]
+2024-11-01T15:46:17.1433804 Failed to retrieve balance.
+2024-11-01T15:46:20.8647603 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T15:46:20.8647603 Failed to retrieve transfer history.
+2024-11-01T15:46:23.0339531 Failed to retrieve pending requests.
+2024-11-01T15:46:33.3691935 Error: Unable to send TE Bucks. 500 : [An error occurred: Type definition error: [simple type, class java.security.Principal]]
+2024-11-01T15:46:33.3701923 Failed to send TE Bucks.
+2024-11-01T16:05:14.9373885 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T16:05:14.9439008 Failed to retrieve transfer history.
+2024-11-01T16:05:18.1669329 Failed to retrieve pending requests.
+2024-11-01T16:26:30.2341777 Error: Unable to retrieve transfer history. 500 : [An error occurred: C:\Users\OctavioCampos\workspace\mod-2-capstone-team-4\tenmo-server\logs\2024-11-01.log (The system cannot find the path specified)]
+2024-11-01T16:26:30.2381792 Failed to retrieve transfer history.
+2024-11-01T16:26:34.3486187 Failed to retrieve pending requests.
+2024-11-01T16:26:41.3811884 Error: Unable to send TE Bucks. 500 : [An error occurred: Type definition error: [simple type, class java.security.Principal]]
+2024-11-01T16:26:41.3811884 Failed to send TE Bucks.
+2024-11-01T16:26:48.6506055 Error: Unable to request TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T16:26:48.6516213 Failed to request TE Bucks.
+2024-11-01T16:26:54.1163553 Error: Unable to request TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T16:26:54.1163553 Failed to request TE Bucks.
+2024-11-01T17:09:47.5750441 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T17:09:47.5875689 Failed to retrieve transfer history.
+2024-11-01T17:09:50.9796771 Failed to retrieve pending requests.
+2024-11-01T17:09:55.3245393 Error: Unable to send TE Bucks. 500 : [An error occurred: Type definition error: [simple type, class java.security.Principal]]
+2024-11-01T17:09:55.3245393 Failed to send TE Bucks.
+2024-11-01T17:10:02.5675102 Error: Unable to request TE Bucks. 500 : [An error occurred: Request method 'POST' is not supported]
+2024-11-01T17:10:02.5675102 Failed to request TE Bucks.
+2024-11-01T17:12:33.5680164 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T17:12:33.5740275 Failed to retrieve transfer history.
+2024-11-01T17:12:39.6018314 Failed to retrieve pending requests.
+2024-11-01T17:12:44.6961251 Error: Unable to send TE Bucks. 500 : [An error occurred: Type definition error: [simple type, class java.security.Principal]]
+2024-11-01T17:12:44.6961251 Failed to send TE Bucks.
+2024-11-01T17:14:54.5852052 Error: Unable to send TE Bucks. 500 : [An error occurred: Type definition error: [simple type, class java.security.Principal]]
+2024-11-01T17:14:54.5892034 Failed to send TE Bucks.
+2024-11-01T17:20:51.7411546 Error: Unable to send TE Bucks. 500 : [An error occurred: Type definition error: [simple type, class java.security.Principal]]
+2024-11-01T17:20:51.7486775 Failed to send TE Bucks.
+2024-11-01T17:22:39.5040699 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T17:22:39.508071 HTTP Response Body: An error occurred: Type definition error: [simple type, class java.security.Principal]
+2024-11-01T17:22:39.508071 Failed to send TE Bucks.
+2024-11-01T21:42:25.4457107 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T21:42:25.4537122 Failed to retrieve transfer history.
+2024-11-01T21:42:27.9563384 Failed to retrieve pending requests.
+2024-11-01T21:42:33.1394059 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T21:42:33.1404099 HTTP Response Body: An error occurred: No static resource tenmo_user/1002.
+2024-11-01T21:42:33.1404099 Failed to send TE Bucks.
+2024-11-01T21:46:33.9656487 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T21:46:33.9711897 Failed to retrieve transfer history.
+2024-11-01T21:46:36.885953 Failed to retrieve pending requests.
+2024-11-01T22:07:42.7260272 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T22:07:42.7320302 HTTP Response Body: An error occurred: No static resource tenmo_user/1002/1002.
+2024-11-01T22:07:42.7320302 Failed to send TE Bucks.
+2024-11-01T22:08:25.0919598 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T22:08:25.096969 HTTP Response Body: An error occurred: No static resource tenmo_user/1002.
+2024-11-01T22:08:25.096969 Failed to send TE Bucks.
+2024-11-01T22:15:15.9303307 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T22:15:16.005933 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T22:15:16.005933 HTTP Response Body: An error occurred: Type definition error: [simple type, class java.security.Principal]
+2024-11-01T22:15:16.0069337 Failed to send TE Bucks.
+2024-11-01T22:17:05.2097453 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T22:17:05.2873359 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T22:17:05.2883495 HTTP Response Body: An error occurred: Type definition error: [simple type, class java.security.Principal]
+2024-11-01T22:17:05.2883495 Failed to send TE Bucks.
+2024-11-01T22:29:22.9856325 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T22:29:22.990163 Failed to retrieve transfer history.
+2024-11-01T22:29:25.2209852 Failed to retrieve pending requests.
+2024-11-01T22:29:30.1393576 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T22:29:30.2454732 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T22:29:30.2464744 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T22:29:30.2464744 Failed to send TE Bucks.
+2024-11-01T22:48:12.4311123 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T22:48:12.5642382 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T22:48:12.5642382 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T22:48:12.5652387 Failed to send TE Bucks.
+2024-11-01T22:56:04.3272917 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T22:56:04.3328057 Failed to retrieve transfer history.
+2024-11-01T22:56:07.0717599 Failed to retrieve pending requests.
+2024-11-01T22:56:11.8540132 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T22:56:11.9861708 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T22:56:11.9861708 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T22:56:11.9861708 Failed to send TE Bucks.
+2024-11-01T23:04:40.9931867 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T23:04:41.166889 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T23:04:41.1678887 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T23:04:41.168886 Failed to send TE Bucks.
+2024-11-01T23:13:07.8053307 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T23:13:07.8113303 Failed to retrieve transfer history.
+2024-11-01T23:13:09.6731523 Failed to retrieve pending requests.
+2024-11-01T23:13:15.6163086 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T23:13:15.7279227 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T23:13:15.7279227 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T23:13:15.728921 Failed to send TE Bucks.
+2024-11-01T23:14:25.3350583 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T23:14:25.4342108 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T23:14:25.435213 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T23:14:25.435213 Failed to send TE Bucks.
+2024-11-01T23:22:55.9496789 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T23:22:55.9536926 Failed to retrieve transfer history.
+2024-11-01T23:23:01.5104482 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T23:23:01.5675021 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T23:23:01.5685015 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T23:23:01.5685015 Failed to send TE Bucks.
+2024-11-01T23:23:31.0165298 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T23:23:31.1732355 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T23:23:31.1732355 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T23:23:31.1742342 Failed to send TE Bucks.
+2024-11-01T23:36:55.8425415 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T23:36:55.8485407 Failed to retrieve transfer history.
+2024-11-01T23:37:01.0171425 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T23:37:01.0902145 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T23:37:01.0902145 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T23:37:01.0912144 Failed to send TE Bucks.
+2024-11-01T23:40:28.4114152 500 : [An error occurred: Bad credentials]
+2024-11-01T23:40:34.7031116 500 : [An error occurred: Bad credentials]
+2024-11-01T23:40:43.5516052 Error: Unable to retrieve account. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-01T23:40:43.6146704 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-01T23:40:43.616182 HTTP Response Body: An error occurred: JSON parse error: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null
+2024-11-01T23:40:43.616182 Failed to send TE Bucks.
+2024-11-01T23:42:17.7476218 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T23:42:17.7516228 Failed to retrieve transfer history.
+2024-11-01T23:42:19.6313731 Failed to retrieve pending requests.
+2024-11-01T23:45:04.1439914 Error: Unable to retrieve transfer history. 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.dao.JdbcAccountDao.findBalanceByUsername(String)" because "this.jdbcAccountDao" is null]
+2024-11-01T23:45:04.1510061 Failed to retrieve transfer history.
+2024-11-01T23:45:06.2651286 Failed to retrieve pending requests.
+2024-11-01T23:58:38.516548 Error: Unable to retrieve balance. Cannot invoke "com.techelevator.tenmo.model.AuthenticatedUser.getToken()" because "this.currentUser" is null
+2024-11-01T23:58:38.5205472 Failed to retrieve balance.

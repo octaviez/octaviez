@@ -1,0 +1,65 @@
+2024-11-02T00:42:12.2742872 Error: Unable to retrieve balance. Cannot invoke "com.techelevator.tenmo.model.AuthenticatedUser.getToken()"
+because "this.currentUser" is null
+2024-11-02T00:42:12.2792902 Failed to retrieve balance.
+2024-11-02T00:48:47.0560177 Error: Unable to retrieve balance. Cannot invoke "com.techelevator.tenmo.model.AuthenticatedUser.getToken()" because "this.currentUser" is null
+2024-11-02T00:48:47.0610188 Failed to retrieve balance.
+2024-11-02T01:04:26.8909598 Error: Unable to retrieve balance. Cannot invoke "com.techelevator.tenmo.model.AuthenticatedUser.getToken()" because "this.currentUser" is null
+2024-11-02T01:04:26.8959595 Failed to retrieve balance.
+2024-11-02T01:06:43.4832261 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:06:43.4892378 Failed to retrieve balance.
+2024-11-02T01:08:21.9044811 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:08:21.9094758 Failed to retrieve balance.
+2024-11-02T01:10:32.3617355 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:10:32.3647325 Failed to retrieve balance.
+2024-11-02T01:11:33.6084865 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:11:33.6124952 Failed to retrieve balance.
+2024-11-02T01:12:45.0562861 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:12:45.0602837 Failed to retrieve balance.
+2024-11-02T01:19:29.3563088 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:19:29.3603198 Failed to retrieve balance.
+2024-11-02T01:26:47.1591654 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:26:47.1641642 Failed to retrieve balance.
+2024-11-02T01:39:54.3696936 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:39:54.3736934 Failed to retrieve balance.
+2024-11-02T01:50:04.5165513 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:50:04.5205528 Failed to retrieve balance.
+2024-11-02T01:53:15.2170684 Error: Unable to retrieve balance. 500 : [An error occurred: Balance not found]
+2024-11-02T01:53:15.2210719 Failed to retrieve balance.
+2024-11-02T01:59:38.152252 Error: Unable to retrieve balance. 500 : [An error occurred: No static resource account/balance/1002.]
+2024-11-02T02:00:11.6126426 Error: Unable to retrieve balance. 500 : [An error occurred: No static resource account/balance.]
+2024-11-02T02:01:07.1998514 Error: Unable to retrieve balance. 500 : [An error occurred: No static resource account/1002/balance.]
+2024-11-02T02:07:37.1595831 Error: Unable to retrieve balance. 500 : [An error occurred: No static resource account/1002/balance.]
+2024-11-02T02:12:32.2422234 Error: Unable to retrieve balance. 500 : [An error occurred: No static resource account/balance.]
+2024-11-02T02:45:43.7627994 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T02:49:01.4714473 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T02:57:16.4789806 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T02:59:24.8651698 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T03:05:40.9928785 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T03:08:01.8509979 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/account/user/1002.]
+2024-11-02T03:08:01.8740635 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T03:09:20.3048601 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T03:09:20.3249726 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/account/user/1002.]
+2024-11-02T03:09:20.3410191 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T03:11:40.0894239 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/account/user/1002.]
+2024-11-02T03:11:40.1155367 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T03:15:34.5242781 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/account/1002.]
+2024-11-02T03:15:34.54387 Error: Unable to retrieve account balance. 500 : [An error occurred: Balance not found]
+2024-11-02T13:48:40.6536496 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-11-02T13:48:44.7714501 I/O error on POST request for "http://localhost:8080/register": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-11-02T13:49:45.4532245 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/account/1002.]
+2024-11-02T13:49:45.4688209 Error: Unable to retrieve account balance. 500 : [An error occurred: No static resource account/0/balance.]
+2024-11-02T13:51:25.1401537 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/account/1002.]
+2024-11-02T13:51:25.1607578 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/account/0.]
+2024-11-02T13:51:25.1723001 Error: Unable to retrieve account balance. 500 : [An error occurred: No static resource account/0/balance.]
+2024-11-02T13:53:24.383517 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/account/1002.]
+2024-11-02T13:53:24.3900518 Error: Unable to retrieve account ID for user ID: 1002
+2024-11-02T13:55:30.0395401 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/1002.]
+2024-11-02T13:55:30.0435685 Error: Unable to retrieve account ID for user ID: 1002
+2024-11-02T14:18:14.0141411 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/user1002.]
+2024-11-02T14:18:14.017223 Error: Unable to retrieve account ID for user ID: 1002
+2024-11-02T14:39:51.0164972 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/user1002.]
+2024-11-02T14:39:51.0234972 Error: Unable to retrieve account ID for user ID: 1002
+2024-11-02T14:41:57.1229306 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/1002.]
+2024-11-02T14:41:57.1269428 Error: Unable to retrieve account ID for user ID: 1002
+2024-11-02T14:44:09.4764792 Error: Unable to retrieve account details. 500 : [An error occurred: No static resource account/1002.]
+2024-11-02T14:44:09.4804791 Error: Unable to retrieve account ID for user ID: 1002

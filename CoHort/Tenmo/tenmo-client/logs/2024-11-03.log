@@ -1,0 +1,112 @@
+2024-11-03T18:28:11.695062 Error retrieving balance: 500 : [An error occurred: PreparedStatementCallback; SQL [SELECT balance FROM account JOIN tenmo_user u ON account.user_id = u.user_id WHERE u.username = '?']; The column index is out of range: 1, number of columns: 0.]
+2024-11-03T18:41:55.8654629 Error retrieving balance: 500 : [An error occurred: Required request parameter 'username' for method parameter type String is not present]
+2024-11-03T18:44:37.4161014 Error retrieving balance: 500 : [An error occurred: Required request parameter 'username' for method parameter type String is not present]
+2024-11-03T18:45:20.5956781 Error retrieving balance: 500 : [An error occurred: Required request parameter 'username' for method parameter type String is not present]
+2024-11-03T18:49:08.5985483 Error retrieving balance: 500 : [An error occurred: Invalid column name]
+2024-11-03T18:49:58.2619374 Error retrieving balance: 500 : [An error occurred: Invalid column name]
+2024-11-03T18:51:02.6908969 Error retrieving balance: 500 : [An error occurred: Invalid column name]
+2024-11-03T19:02:44.5218057 Error retrieving balance: 500 : [An error occurred: Invalid column name]
+2024-11-03T19:06:13.2705062 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-11-03T19:07:17.3760613 Error retrieving balance: Error while extracting response for type [class com.techelevator.tenmo.model.Account] and content type [application/json]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0)
+ at [Source: (PushbackInputStream); line: 1, column: 1]
+2024-11-03T19:07:21.6796726 Error retrieving balance: Error while extracting response for type [class com.techelevator.tenmo.model.Account] and content type [application/json]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0)
+ at [Source: (PushbackInputStream); line: 1, column: 1]
+2024-11-03T19:14:39.1830054 Error retrieving balance: Error while extracting response for type [class com.techelevator.tenmo.model.Account] and content type [application/json]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0)
+ at [Source: (PushbackInputStream); line: 1, column: 1]
+2024-11-03T19:18:42.7594949 Error retrieving balance: Error while extracting response for type [class com.techelevator.tenmo.model.Account] and content type [application/json]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0)
+ at [Source: (PushbackInputStream); line: 1, column: 1]
+2024-11-03T19:18:45.9226093 Error retrieving balance: Error while extracting response for type [class com.techelevator.tenmo.model.Account] and content type [application/json]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot construct instance of `com.techelevator.tenmo.model.Account` (although at least one Creator exists): no double/Double-argument constructor/factory method to deserialize from Number value (1000000.0)
+ at [Source: (PushbackInputStream); line: 1, column: 1]
+2024-11-03T19:24:09.1929832 Error retrieving balance: 500 : [An error occurred: Optional int parameter 'userId' is present but cannot be translated into a null value due to being declared as a primitive type. Consider declaring it as object wrapper for the corresponding primitive type.]
+2024-11-03T19:45:51.1110367 500 : [An error occurred: No static resource transfer/login.]
+2024-11-03T19:48:01.948744 500 : [An error occurred: No static resource transfer/login.]
+2024-11-03T19:49:52.3754639 500 : [An error occurred: No static resource transfer/login.]
+2024-11-03T19:50:31.1461215 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T19:55:26.6940232 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T19:56:36.7279935 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T19:58:25.4262921 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T19:58:25.4312901 Empty Transfers.
+2024-11-03T20:48:21.665745 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T20:48:21.6702754 Empty Transfers.
+2024-11-03T20:48:33.748373 Error sending bucks: 500 : [An error occurred: Cannot invoke "com.techelevator.tenmo.model.Account.getBalance()" because "recipient" is null]
+2024-11-03T20:48:33.7543984 Transfer failed. User ID: 1, Amount: 100
+2024-11-03T20:50:28.9102846 Error sending bucks: 500 : [An error occurred: Zero rows affected, expected at least one]
+2024-11-03T20:50:28.9112852 Transfer failed. User ID: 1001, Amount: 100
+2024-11-03T20:54:08.0127371 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T20:54:08.0182747 Empty Transfers.
+2024-11-03T20:54:21.7782801 Error sending bucks: 500 : [An error occurred: Zero rows affected, expected at least one]
+2024-11-03T20:54:21.784291 Transfer failed. User ID: 1001, Amount: 100
+2024-11-03T20:54:42.2898925 Error sending bucks: 500 : [An error occurred: Zero rows affected, expected at least one]
+2024-11-03T20:54:42.2898925 Transfer failed. User ID: 1003, Amount: 100
+2024-11-03T21:04:49.5173277 Error sending bucks: 500 : [An error occurred: Cannot invoke "java.security.Principal.getName()" because "this.principal" is null]
+2024-11-03T21:04:49.5304197 Transfer failed. User ID: 1001, Amount: 100
+2024-11-03T21:07:03.7388363 Error sending bucks: 500 : [An error occurred: org.springframework.dao.DataIntegrityViolationException: PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account_from, account_to, amount... (400 bytes)]
+2024-11-03T21:07:03.7488992 Transfer failed. User ID: 1003, Amount: 100
+2024-11-03T21:17:11.0865976 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T21:17:11.0921068 Empty Transfers.
+2024-11-03T21:17:34.7581746 Error sending bucks: 500 : [An error occurred: org.springframework.dao.DataIntegrityViolationException: PreparedStatementCallback; SQL [INSERT INTO transfer (transfer_type_id, transfer_status_id, account_from, account_to, amount... (400 bytes)]
+2024-11-03T21:17:34.7667074 Transfer failed. User ID: 1003, Amount: 100
+2024-11-03T21:26:11.1622974 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T21:26:11.1682955 Empty Transfers.
+2024-11-03T21:26:23.7005225 Error sending bucks: 500 : [An error occurred: 400 BAD_REQUEST "Recipient account does not exist"]
+2024-11-03T21:26:23.7070313 Transfer failed. User ID: 2003, Amount: 100
+2024-11-03T21:41:30.8926956 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T21:41:30.8967073 Empty Transfers.
+2024-11-03T21:41:48.2531198 Error sending bucks: 500 : [An error occurred: Error creating transfer]
+2024-11-03T21:41:48.2626564 Transfer failed. User ID: 1004, Amount: 100
+2024-11-03T21:44:11.4202645 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T21:44:11.4252648 Empty Transfers.
+2024-11-03T21:44:46.7998837 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T21:44:46.804843 Empty Transfers.
+2024-11-03T21:45:00.7030929 Error sending bucks: 500 : [An error occurred: Error creating transfer]
+2024-11-03T21:45:00.7096157 Transfer failed. User ID: 1002, Amount: 100
+2024-11-03T21:50:56.9027121 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T21:50:56.9067397 Empty Transfers.
+2024-11-03T21:51:13.4674188 Error sending bucks: 500 : [An error occurred: Error creating transfer]
+2024-11-03T21:51:13.4744531 Transfer failed. User ID: 1002, Amount: 100
+2024-11-03T21:58:08.3604946 Error sending bucks: 500 : [An error occurred: Error creating transfer]
+2024-11-03T21:58:08.3720471 Transfer failed. User ID: 1001, Amount: 100
+2024-11-03T22:00:12.5006278 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T22:00:12.5016266 Empty Transfers.
+2024-11-03T22:00:49.3180167 Error sending bucks: 500 : [An error occurred: Error creating transfer]
+2024-11-03T22:00:49.3290685 Transfer failed. User ID: 1002, Amount: 25
+2024-11-03T22:04:08.128655 Error sending bucks: 500 : [An error occurred: Error creating transfer]
+2024-11-03T22:04:08.1421713 Transfer failed. User ID: 1001, Amount: 100
+2024-11-03T22:06:40.5645076 Error sending bucks: 500 : [An error occurred: Error creating transfer]
+2024-11-03T22:06:40.5645076 Transfer failed. User ID: 1003, Amount: 25
+2024-11-03T22:15:12.7434127 Error sending bucks: 500 : [An error occurred: Error creating transfer]
+2024-11-03T22:15:12.7569482 Transfer failed. User ID: 1004, Amount: 25
+2024-11-03T22:17:19.0736639 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T22:17:19.0736639 Empty Transfers.
+2024-11-03T22:21:40.6526263 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T22:21:40.6575844 Empty Transfers.
+2024-11-03T22:26:46.1515507 Failed to send TE Bucks. HTTP response code: 201
+2024-11-03T22:26:46.1600908 Error response: null
+2024-11-03T22:26:59.1457358 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-03T22:26:59.1457358 HTTP Response Body: An error occurred: 400 BAD_REQUEST "Sender or recipient account does not exist"
+2024-11-03T22:50:22.1780594 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T22:50:22.187131 Empty Transfers.
+2024-11-03T22:52:18.2213197 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T22:52:18.2258343 Empty Transfers.
+2024-11-03T23:01:43.9937456 500 : [An error occurred: Bad credentials]
+2024-11-03T23:03:33.5769604 Token: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTczMDc3OTQwNX0.ehHLr5zSP_LfDMgJwVTXXE6MWzi-4yKWdMIQ7w8PXhDE1t5fkLrlT157vd39t9gdqPAeL_Yg57rTzw6YlwhoXQ
+2024-11-03T23:03:33.6110878 Error sending bucks: 500 : [An error occurred: Content-Type 'application/x-www-form-urlencoded;charset=UTF-8' is not supported]
+2024-11-03T23:03:33.6166082 Transfer failed. User ID: 1004, Amount: 10
+2024-11-03T23:14:54.8010803 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T23:14:54.8051072 Empty Transfers.
+2024-11-03T23:15:13.2520966 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T23:15:13.2520966 Empty Transfers.
+2024-11-03T23:20:40.0614999 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T23:20:40.0645028 Empty Transfers.
+2024-11-03T23:21:04.8445047 Error retrieving transfer history: 500 : [An error occurred: 404 NOT_FOUND "No transfers found"]
+2024-11-03T23:21:04.8455059 Empty Transfers.
+2024-11-03T23:32:10.7190134 Token: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIwIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTczMDc4MTEyNX0.-i6qImwumGBF-538Grkg9S5vkHQ6EbkUsbe7x5NMHudGl3C4Sv6502qx7_3IKgEOfZa9F6s1pemYn6aBTngisQ
+2024-11-03T23:48:45.76853 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-03T23:48:45.7735308 HTTP Response Body: An error occurred: Error creating transfer
+2024-11-03T23:48:45.7735308 Failed to request TE Bucks.
+2024-11-03T23:52:21.0895079 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-03T23:52:21.0940215 HTTP Response Body: An error occurred: Error creating transfer
+2024-11-03T23:52:21.0940215 Failed to request TE Bucks.
+2024-11-03T23:56:59.4653744 HTTP Status Code: 500 INTERNAL_SERVER_ERROR
+2024-11-03T23:56:59.4709119 HTTP Response Body: An error occurred: Error creating transfer
+2024-11-03T23:56:59.4709119 Failed to request TE Bucks.

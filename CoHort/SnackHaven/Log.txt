@@ -1,0 +1,2 @@
+10/06/2024 23:44:19 Total Sales as of 10/06/2024 23:44:19: $3.65
+10/06/2024 23:44:32 Sales report generated: SalesReports/SalesReport_20241006_234432.txt

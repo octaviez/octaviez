@@ -1,0 +1,9 @@
+2024-10-31T16:49:37.0373689 Cannot invoke "String.equals(Object)" because "responseBody" is null
+2024-10-31T16:50:01.9313361 500 : [An error occurred: Request method 'POST' is not supported]
+2024-10-31T16:50:09.3840808 500 : [An error occurred: Request method 'PUT' is not supported]
+2024-10-31T17:05:36.8898673 Cannot invoke "String.equals(Object)" because "responseBody" is null
+2024-10-31T17:13:12.6376115 500 : [An error occurred: Required request body is missing: public org.springframework.http.ResponseEntity<java.util.List<com.techelevator.tenmo.model.Transfer>> com.techelevator.tenmo.controller.TransferController.viewTransferHistory(java.security.Principal)]
+2024-10-31T17:13:36.1624399 500 : [An error occurred: Request method 'POST' is not supported]
+2024-10-31T17:13:47.9073796 500 : [An error occurred: PreparedStatementCallback; SQL [SELECT transfer_id, transfer_type_id, transfer_status_id, account_from, account_to, amount FROM transfer INNER JOIN account ON transfer.account_from = account.account_id INNER JOIN tenmo_user ON account.user_id = tenmo_user.user_id WHERE tenmo_user.username ILIKE ? AND transfer_status_id = ?]; No value specified for parameter 2.]
+2024-10-31T17:13:55.2865878 500 : [An error occurred: PreparedStatementCallback; SQL [SELECT transfer_id, transfer_type_id, transfer_status_id, account_from, account_to, amount FROM transfer INNER JOIN account ON transfer.account_from = account.account_id INNER JOIN tenmo_user ON account.user_id = tenmo_user.user_id WHERE tenmo_user.username ILIKE ? AND transfer_status_id = ?]; No value specified for parameter 2.]
+2024-10-31T17:14:31.9103876 500 : [An error occurred: Required request body is missing: public org.springframework.http.ResponseEntity<java.util.List<com.techelevator.tenmo.model.Transfer>> com.techelevator.tenmo.controller.TransferController.viewTransferHistory(java.security.Principal)]
